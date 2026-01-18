@@ -17,7 +17,7 @@ jobs:
         with:
           card: stats
           options: username=AnkitG0204&show_icons=true&hide_border=true&theme=tokyonight
-          path: assets/readme/stats.svg
+          path: assets/stats/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # 2) Top languages card
@@ -26,7 +26,7 @@ jobs:
         with:
           card: top-langs
           options: username=AnkitG0204&layout=compact&hide_border=true&theme=tokyonight
-          path: assets/readme/top-langs.svg
+          path: assets/stats/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push
