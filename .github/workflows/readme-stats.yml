@@ -1,8 +1,8 @@
-name: README stats
+name: README Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,12 +10,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Generate cards
+
+      # 1) GitHub stats card
+      - name: Generate GitHub stats card
+      - uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=AnkitG0204&show_icons=true&hide_border=true&theme=tokyonight
+          path: assets/readme/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2) Top languages card
+      - name: Generate Top languages card
         uses: stats-organization/github-readme-stats-action@v1
         with:
-          username: AnkitG0204
-          output_dir: assets/stats
+          card: top-langs
+          options: username=AnkitG0204&layout=compact&hide_border=true&theme=tokyonight
+          path: assets/readme/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update readme stats"
+          commit_message: "chore: update readme cards"
