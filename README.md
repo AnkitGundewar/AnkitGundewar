@@ -38,20 +38,8 @@ Ankit Gundewar Github Profile
 ## ⚙️ GitHub Analytics
 
 <!-- Stats Card -->
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=AnkitG0204show_icons=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Statistics&hide_border=false&theme=react"
-  />
-</p>
-
-<!-- Top Languages Card -->
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitG0204&layout=compact&langs_count=8&custom_title=My%20Programming%20Languages&hide_border=false&theme=react"
-  />
-</p>
+![GitHub stats](assets/stats/overview.svg)
+![Top languages](assets/stats/languages.svg)
 
 ---
 
