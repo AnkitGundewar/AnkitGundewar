@@ -38,8 +38,8 @@ Ankit Gundewar Github Profile
 ## ⚙️ GitHub Analytics
 
 <!-- Stats Card -->
-![GitHub stats](assets/stats/overview.svg)
-![Top languages](assets/stats/languages.svg)
+![GitHub stats](assets/stats/stats.svg)
+![Top languages](assets/stats/top-langs.svg)
 
 ---
 
