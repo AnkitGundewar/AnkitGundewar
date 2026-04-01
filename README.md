@@ -31,6 +31,9 @@ Ankit Gundewar Github Profile
 
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-34A853?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=audible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-007FFF?style=flat-square&logo=.net&logoColor=white" />
 </p>
 
  
@@ -52,7 +55,7 @@ Ankit Gundewar Github Profile
 
 <p>
   <a href="https://www.linkedin.com/in/ankitgundewar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:ankitjg0204@gmail.com">
     <img src="https://img.shields.io/badge/ankitjg0204@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
