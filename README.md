@@ -39,7 +39,6 @@ Hi There! My name is Ankit Gundewar , an aspiring computer scientist with a deep
   
 
 ## ⚙️ GitHub Analytics  
-<p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
@@ -60,7 +59,7 @@ Hi There! My name is Ankit Gundewar , an aspiring computer scientist with a deep
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitGundewar&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
 </div>
-</p>  
+
 
 P.S: Don't believe the stats, I'm very active here :)
  
