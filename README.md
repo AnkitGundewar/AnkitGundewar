@@ -43,6 +43,10 @@ Hi There! My name is Ankit Gundewar , an aspiring computer scientist with a deep
 
 ![GitHub stats](assets/stats/stats.svg) 
 ![Top languages](assets/stats/top-langs.svg)
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitGundewar&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
+</div>
 </p>  
 
 P.S: Don't believe the stats, I'm very active here :)
@@ -62,8 +66,5 @@ P.S: Don't believe the stats, I'm very active here :)
   </a>
 </p>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitGundewar&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
-</div>
+
 
