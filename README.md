@@ -41,9 +41,6 @@ Hi There! My name is Ankit Gundewar , an aspiring computer scientist with a deep
 ## ⚙️ GitHub Analytics  
 <p>
 
-//![GitHub stats](assets/stats/stats.svg) 
-//![Top languages](assets/stats/top-langs.svg)
-
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <picture>
